@@ -52,7 +52,7 @@ Posts related to encrpytion and decryption in Go:
 3. https://www.golangprograms.com/data-encryption-with-aes-gcm.html
 4. https://www.thepolyglotdeveloper.com/2018/02/encrypt-decrypt-data-golang-application-crypto-packages/
 
-Program running:
+Executing the program :
 
 1. Run the pbproxy.go file using IDE with necessary program arguments or
 2. Run  the following commands :
