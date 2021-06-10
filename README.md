@@ -56,6 +56,6 @@ Executing the program :
 
 1. Run the pbproxy.go file using IDE with necessary program arguments or
 2. Run  the following commands :
-        go mod init hw4/pbproxy
-        go mod tidy
-        Run the suitable server/ client commands
+        -> go mod init hw4/pbproxy
+        -> go mod tidy
+        -> Run the suitable server/ client commands
